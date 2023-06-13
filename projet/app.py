@@ -56,4 +56,4 @@ def get_recommendations(artist_name, song_name):
         return None
 
 if __name__ == '__main__':
-    app.run(host='18.204.13.164', port=8001)
+    app.run()
